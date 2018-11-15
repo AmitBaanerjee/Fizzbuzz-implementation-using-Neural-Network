@@ -10,7 +10,7 @@ output).
 Your programs will be tested on how well they perform in converting integers from
 1 to 100 to the FizzBuzz labels.
 
-#Implementation of Fizzbuzz using neural networks
+#Implementation of Fizzbuzz using neural network using Keras Library
 
 
 First you need to create a training data set for numbers ranging from 101 to 1000.
