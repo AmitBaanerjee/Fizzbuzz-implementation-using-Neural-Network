@@ -1,4 +1,6 @@
 #Task
+
+
 We consider the task of FizzBuzz. In this task an integer divisible by 3 is printed as
 Fizz, and integer divisible by 5 is printed as Buzz. An integer divisible by both 3 and
 5 is printed as FizzBuzz. If an integer is not divisible by 3 or 5 or 15, it simply prints
@@ -9,6 +11,8 @@ Your programs will be tested on how well they perform in converting integers fro
 1 to 100 to the FizzBuzz labels.
 
 #Implementation of Fizzbuzz using neural networks
+
+
 First you need to create a training data set for numbers ranging from 101 to 1000.
 We avoid training on integers 1 to 100 because that forms the testing set (In machine
 learning it would be considered cheating to train on the testing set). We present this
